@@ -1,0 +1,7 @@
+function ListOutput({todoItems}) {
+    return(
+        <p>????????????</p>
+    )
+}
+
+export default ListOutput
