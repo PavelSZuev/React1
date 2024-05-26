@@ -6,6 +6,7 @@ function Component1 ({color, text}) {
         <div>
             <p className="C1">Компонент1</p>
             <p>{text}</p>
+            
         </div>
     )
 }
